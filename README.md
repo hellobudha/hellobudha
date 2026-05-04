@@ -1,18 +1,18 @@
 # Hello, I'm Budha 👋
 
-Director of Product Ecosystem at [Tyk](https://tyk.io) · Board Chair, [OpenAPI Initiative](https://www.openapis.org) · Board Member, [GraphQL Foundation](https://graphql.org/foundation)
+Director of Product Ecosystem at [Tyk](https://tyk.io){target="_blank"} · Board Chair, [OpenAPI Initiative](https://www.openapis.org){target="_blank"} · Board Member, [GraphQL Foundation](https://graphql.org/foundation){target="_blank"}
 
 I work at the intersection of **API management**, **AI governance** and **Open Standards** building the case that API infrastructure is the foundation for an AI-native enterprise.
 
 ---
 
-## What I'm Building
+## What I'm Building 🔭
 
 Everything I build will live here. Works in progress, shipped tools, and experiments.
 
 ---
 
-## What I Care About
+## What I Care About 🌱
 
 - APIs as the connective tissue of the modern enterprise
 - AI governance through API management
@@ -21,13 +21,11 @@ Everything I build will live here. Works in progress, shipped tools, and experim
 
 ---
 
-## How to reach me: 
+## How to reach me 📬
 
-📬 Find me on [LinkedIn](https://www.linkedin.com/in/budha-b/) · or open an issue on any repo
+ Find me on [LinkedIn](https://www.linkedin.com/in/budha-b/){target="_blank"} or open an issue on any repo.
 
 ---
-
-
 
 
 
